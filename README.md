@@ -38,26 +38,12 @@ XXX.cloud.okteto.net/v2link/index.html
 https://github.com/happyevero/Html
 ```
 
-#### WELCOME TO THE CAFESTORE [OK]
-```
-https://github.com/happyevero/Html/raw/main/CAFESTORE-html.zip
-```
-#### Soundwave  [OK]
-```
-https://github.com/happyevero/Html/raw/main/S-html.zip
 ```
 #### Lokuri Website [OK]
 ```
 https://github.com/happyevero/Html/raw/main/L-html.zip
 ```
-#### FitApp [OK]
-```
-https://github.com/happyevero/Html/raw/main/FitApp-html.zip
-```
-####  KayDen [OK]
-```
-https://github.com/happyevero/Html/raw/main/KayDen-html.zip
-```
+
 #### LandingStartups
 ```
 https://github.com/happyevero/Html/raw/main/LandingStartups-html.zip
