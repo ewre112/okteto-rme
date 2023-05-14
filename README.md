@@ -1,5 +1,4 @@
 ﻿# Xray快速部署到Heroku/Okteto
-
 Vless & Vmess: 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/davidre32/Xray-heroku-okteto-keuxanhtml-.git) 
